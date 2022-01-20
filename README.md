@@ -96,6 +96,7 @@ else:
 
 ```
 ## Sample Input and Output
+OUTPUT
 ![output](./s..png)
 ![output](./ss..png)
 ![output](./sss..png)
